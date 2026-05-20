@@ -45,18 +45,18 @@ Players do not directly receive mobs around them. Instead, players activate near
 
 Full documentation is available on the GitHub Wiki:
 
-- Getting Started / Overview https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/01-Getting%20Started%20%20Overview.md
-- How Region Spawning Works https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/02-How%20Region%20Spawning%20Works.md
-- In-Game Configuration Menus https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/03-In-Game%20Configuration%20Menus.md
-- Commands Reference https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/04-Commands%20Reference.md
-- Spawn Presets https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/08-Spawn%20Presets.md
-- Time Conditions  https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/09-Time%20Conditions.md
-- Weather Conditions https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/10-Weather%20Conditions.md
-- Terrain Type Conditions https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/12-Terrain%20Type%20Conditions.md
-- Region Visualization Tools https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/05-Region%20Visualization%20Tools.md
-- Mob Containment System https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/06-Mob%20Containment%20System.md
-- Files, JSON and Data Storage https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/07-Files%2C%20JSON%20and%20Data%20Storage.md
-- Global Settings and Troubleshooting https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/11-Global%20Settings%20and%20Troubleshooting.md
+- [Getting Started / Overview](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/01-Getting%20Started%20%20Overview.md)
+- [How Region Spawning Works](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/02-How%20Region%20Spawning%20Works.md)
+- [In-Game Configuration Menus](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/03-In-Game%20Configuration%20Menus.md)
+- [Commands Reference](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/04-Commands%20Reference.md)
+- [Region Visualization Tools](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/05-Region%20Visualization%20Tools.md)
+- [Mob Containment System](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/06-Mob%20Containment%20System.md)
+- [Files, JSON and Data Storage](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/07-Files%2C%20JSON%20and%20Data%20Storage.md)
+- [Spawn Presets](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/08-Spawn%20Presets.md)
+- [Time Conditions](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/09-Time%20Conditions.md)
+- [Weather Conditions](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/10-Weather%20Conditions.md)
+- [Global Settings and Troubleshooting](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/11-Global%20Settings%20and%20Troubleshooting.md)
+- [Terrain Type Conditions](https://github.com/MATIASTGM/Hytale-RegionSpawnMobs-Wiki/blob/main/Wiki/12-Terrain%20Type%20Conditions.md)
 
 ## Project Status
 
