@@ -1,8 +1,8 @@
 # RegionSpawnMobs
 
-RegionSpawnMobs is a Hytale server plugin that gives admins full control over mob spawning through custom regions.
+RegionSpawnMobs is a Hytale server mod that gives admins full control over mob spawning through custom regions.
 
-Instead of relying on global or player-centered spawning, this plugin lets you define exact 3D areas where specific mobs can appear. Each region can have its own mob list, spawn weights, capacity, spawn mode, time conditions, weather conditions, terrain conditions and fixed SpawnPoints.
+Instead of relying on global or player-centered spawning, this mod lets you define exact 3D areas where specific mobs can appear. Each region can have its own mob list, spawn weights, capacity, spawn mode, time conditions, weather conditions, terrain conditions and fixed SpawnPoints.
 
 ## What it does
 
@@ -60,6 +60,8 @@ Full documentation is available on the GitHub Wiki:
 
 ## Project Status
 
-RegionSpawnMobs is currently in beta. Core systems are working, but bugs may still occur. It is recommended to test the plugin on a development server before using it in production.
+RegionSpawnMobs is actively maintained and has moved beyond its beta stage as of version 1.1.8.
+
+The core systems are stable and usable, but the mod is still under active development. New features, improvements and compatibility adjustments may continue to be added over time.
 
 Feedback, bug reports and suggestions are welcome.
