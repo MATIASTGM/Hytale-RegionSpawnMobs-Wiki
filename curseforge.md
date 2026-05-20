@@ -60,7 +60,7 @@ Full documentation is available on the GitHub Wiki:
 
 ## Project Status
 
-RegionSpawnMobs is actively maintained and has moved beyond its beta stage as of version 1.1.8.
+RegionSpawnMobs is actively maintained and has moved beyond its beta stage as of version 1.1.4.
 
 The core systems are stable and usable, but the mod is still under active development. New features, improvements and compatibility adjustments may continue to be added over time.
 
